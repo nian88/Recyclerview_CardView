@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="os_version">
+        <item>Alpha</item>
+        <item>Beta</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Frozen yogurt</item>
+        <item>Ginger Bread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+    </string-array>
+
+    <string-array name="os_sub_version">
+        <item>Api Level 1.0</item>
+        <item>Api Level 1.3</item>
+        <item>Api Level 1.5</item>
+        <item>Api Level 1.6</item>
+        <item>Api Level 2.0</item>
+        <item>Api Level 2.2</item>
+        <item>Api Level 3.0 - 3.3</item>
+        <item>Api Level 3.4</item>
+        <item>Api Level 4.0.x</item>
+        <item>Api Level 4.1.x - 4.2.x</item>
+        <item>Api Level 4.4.x</item>
+        <item>Api Level 5.x</item>
+        <item>Api Level 6.0</item>
+    </string-array>
+
+    <string-array name="list_icon">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+        <item>k</item>
+        <item>l</item>
+        <item>m</item>
+    </string-array>
+
+</resources>
